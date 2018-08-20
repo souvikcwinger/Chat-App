@@ -14,4 +14,4 @@ To run this:
 
 ->Go to 'localhost/ChatApp' from any web browser.
 
-->Signup an the login
+->Signup and login
